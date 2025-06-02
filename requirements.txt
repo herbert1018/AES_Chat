@@ -1,0 +1,6 @@
+tkinter
+cryptography>=41.0.0
+pypackage-resources>=0.0.1
+numpy>=1.24.0
+Pillow>=10.0.0
+websockets>=11.0.0
