@@ -62,6 +62,7 @@ brew install python-tk
 - 方法二：直接執行 `Aes_gui.exe`
 - 支援獨立運作，可用於離線加解密
 
+*備註：目前聊天功能只支援128bits金鑰
 ### 開發測試用啟動方式 (開發測試)
 ```bash
 python Chat_GUI.py     # 啟動聊天管理器
